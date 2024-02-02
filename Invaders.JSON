@@ -1,0 +1,64 @@
+{"Invaders1": 
+    [
+    {"x": 100, "y":100, "vivo": true, "direccion": 1},
+    {"x": 200, "y":100, "vivo": true, "direccion": 1},
+    {"x": 300, "y":100, "vivo": true, "direccion": 1},
+    {"x": 400, "y":100, "vivo": true, "direccion": 1},
+    {"x": 500, "y":100, "vivo": true, "direccion": 1},
+    {"x": 600, "y":100, "vivo": true, "direccion": 1},
+    {"x": 700, "y":100, "vivo": true, "direccion": 1},
+    {"x": 800, "y":100, "vivo": true, "direccion": 1},
+    {"x": 900, "y":100, "vivo": true, "direccion": 1},
+    {"x": 1000, "y":100, "vivo": true, "direccion": 1},
+    {"x": 1100, "y":100, "vivo": true, "direccion": 1},
+    {"x": 1200, "y":100, "vivo": true, "direccion": 1}
+    ],
+
+    "Invaders2" : 
+    [
+    {"x": 100, "y":180, "vivo": true, "direccion": -1},
+    {"x": 200, "y":180, "vivo": true, "direccion": -1},
+    {"x": 300, "y":180, "vivo": true, "direccion": -1},
+    {"x": 400, "y":180, "vivo": true, "direccion": -1},
+    {"x": 500, "y":180, "vivo": true, "direccion": -1},
+    {"x": 600, "y":180, "vivo": true, "direccion": -1},
+    {"x": 700, "y":180, "vivo": true, "direccion": -1},
+    {"x": 800, "y":180, "vivo": true, "direccion": -1},
+    {"x": 900, "y":180, "vivo": true, "direccion": -1},
+    {"x": 1000, "y":180, "vivo": true, "direccion": -1},
+    {"x": 1100, "y":180, "vivo": true, "direccion": -1},
+    {"x": 1200, "y":180, "vivo": true, "direccion": -1}
+    ],
+
+    "Invaders3" :
+    [
+    {"x": 100, "y":260, "vivo": true, "direccion": 1},
+    {"x": 200, "y":260, "vivo": true, "direccion": 1},
+    {"x": 300, "y":260, "vivo": true, "direccion": 1},
+    {"x": 400, "y":260, "vivo": true, "direccion": 1},
+    {"x": 500, "y":260, "vivo": true, "direccion": 1},
+    {"x": 600, "y":260, "vivo": true, "direccion": 1},
+    {"x": 700, "y":260, "vivo": true, "direccion": 1},
+    {"x": 800, "y":260, "vivo": true, "direccion": 1},
+    {"x": 900, "y":260, "vivo": true, "direccion": 1},
+    {"x": 1000, "y":260, "vivo": true, "direccion": 1},
+    {"x": 1100, "y":260, "vivo": true, "direccion": 1},
+    {"x": 1200, "y":260, "vivo": true, "direccion": 1}
+    ],
+
+    "Invaders4" : 
+    [
+    {"x": 100, "y":340, "vivo": true, "direccion": -1},
+    {"x": 200, "y":340, "vivo": true, "direccion": -1},
+    {"x": 300, "y":340, "vivo": true, "direccion": -1},
+    {"x": 400, "y":340, "vivo": true, "direccion": -1},
+    {"x": 500, "y":340, "vivo": true, "direccion": -1},
+    {"x": 600, "y":340, "vivo": true, "direccion": -1},
+    {"x": 700, "y":340, "vivo": true, "direccion": -1},
+    {"x": 800, "y":340, "vivo": true, "direccion": -1},
+    {"x": 900, "y":340, "vivo": true, "direccion": -1},
+    {"x": 1000, "y":340, "vivo": true, "direccion": -1},
+    {"x": 1100, "y":340, "vivo": true, "direccion": -1},
+    {"x": 1200, "y":340, "vivo": true, "direccion": -1}
+    ]
+}
